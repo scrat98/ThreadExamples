@@ -1,0 +1,8 @@
+.idea
+.vs
+build
+Win32
+Win64
+*.dir
+cmake-build-debug/
+build/
